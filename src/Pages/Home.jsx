@@ -1,4 +1,4 @@
-import CustomSlider from "../CustomSlider";
+import CustomSlider from "../components/CustomSlider";
 import ScrollableDiv from "../components/ScrollDiv";
 import HomeTop from "../components/HomeTop";
 import Offers from "../components/Offers";
