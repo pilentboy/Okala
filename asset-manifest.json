@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Okala/static/css/main.b2dae516.css",
+    "main.js": "/Okala/static/js/main.aaf5c71b.js",
+    "static/media/YekanBakh-Regular.ttf": "/Okala/static/media/YekanBakh-Regular.b3f7d8c4e65f3847e24b.ttf",
+    "index.html": "/Okala/index.html",
+    "main.b2dae516.css.map": "/Okala/static/css/main.b2dae516.css.map",
+    "main.aaf5c71b.js.map": "/Okala/static/js/main.aaf5c71b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b2dae516.css",
+    "static/js/main.aaf5c71b.js"
+  ]
+}
