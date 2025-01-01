@@ -28,8 +28,6 @@ export default function CustomSlider() {
         }}
         pagination={{ clickable: true }}
         scrollbar={{ draggable: true }}
-        onSwiper={(swiper) => console.log(swiper)}
-        onSlideChange={() => console.log("slide change")}
         className="w-full h-full"
       >
         <SwiperSlide className="h-full w-full">

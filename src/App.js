@@ -9,9 +9,9 @@ import Auth from "./Pages/Auth";
 function App() {
   return (
     <Layout>
-      <BrowserRouter>
+      <BrowserRouter basename="/Okala">
         <Routes>
-          <Route path="/" element={<Nav />}>
+          <Route path="" element={<Nav />}>
             <Route index element={<Home />} />
             <Route path="auth" element={<Auth />} />
             <Route path="purchases" element={<Purchases />} />
